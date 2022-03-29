@@ -9,7 +9,7 @@ Biking Goals:
 
 Trail Ridge Road, Estes Park: 28 miles, 4,661 Feet Elevation Gain
 
-Mount Evans Road, Idaho Springs: 48 miles, 5,540 Feet Elevation Gain
+Mount Evans Road, Idaho Springs: 48 miles, 5,540 Feet Elevation Gain test test test
 
 I biked around 500 feet of elevation gain today, right on track....
 
