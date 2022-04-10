@@ -5,7 +5,7 @@ date: "2022-04-10"
 
 ### 
 
-Here's the recipe for "Chocolava':
+Here's the recipe for "Choclava':
 
 2 cups all-purpose flour
 1/2 cup granulated sugar
